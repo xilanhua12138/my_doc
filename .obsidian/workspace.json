@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "24ce00fc28f35094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leetcode刷题/动态规划问题——子序列问题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "05f4b6cff0d3a90f",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode刷题/回溯问题中的排列组合.md",
+                "file": "leetcode刷题/动态规划问题——子序列问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode刷题/回溯问题中的排列组合.md",
+                "file": "leetcode刷题/动态规划问题——子序列问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode刷题/回溯问题中的排列组合.md"
+                "file": "leetcode刷题/动态规划问题——子序列问题.md"
               }
             }
           }
@@ -195,11 +207,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3e2a8e3b74ea35bd",
+  "active": "24ce00fc28f35094",
   "lastOpenFiles": [
+    "leetcode刷题/回溯问题中的排列组合.md",
+    "leetcode刷题/动态规划问题——子序列问题.md",
     "笔记附件/Pasted image 20230406003846.png",
     "leetcode刷题/回溯问题.md",
-    "leetcode刷题/回溯问题中的排列组合.md",
     "笔记附件/Pasted image 20230405223442.png",
     "笔记附件/23775b18d1329430bfeaea5e22acdf6.jpg",
     "笔记附件/Pasted image 20230405213936.png",
@@ -221,7 +234,6 @@
     "笔记附件/Pasted image 20230405153347.png",
     "毕设改进方案.md",
     "算法/损失函数",
-    "笔记附件/Pasted image 20230405141500.png",
     "算法",
     "leetcode刷题/滑动窗口法.md",
     "研究生/研究生综合评价细则.pdf",
