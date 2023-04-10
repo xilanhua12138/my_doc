@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode刷题/贝芙汀面试总结.md",
+                "file": "leetcode刷题/面试/贝芙汀面试总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode刷题/贝芙汀面试总结.md",
+                "file": "leetcode刷题/面试/贝芙汀面试总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,6 +149,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "a1c7130dca3e2e12",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
           }
         ]
       }
@@ -170,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode刷题/贝芙汀面试总结.md",
+                "file": "leetcode刷题/面试/贝芙汀面试总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode刷题/贝芙汀面试总结.md",
+                "file": "leetcode刷题/面试/贝芙汀面试总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode刷题/贝芙汀面试总结.md"
+                "file": "leetcode刷题/面试/贝芙汀面试总结.md"
               }
             }
           }
@@ -231,12 +239,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "aa6aaab25747b44d",
+  "active": "c7174d50c9ff08c3",
   "lastOpenFiles": [
+    "leetcode刷题/面试",
+    "leetcode刷题/动态规划问题——子序列问题.md",
+    "leetcode刷题/滑动窗口法.md",
+    "leetcode刷题/面试/贝芙汀面试总结.md",
     "笔记附件/Pasted image 20230410210139.png",
     "leetcode刷题/经验.md",
-    "leetcode刷题/贝芙汀面试总结.md",
-    "leetcode刷题/动态规划问题——子序列问题.md",
     "leetcode刷题/回溯问题中的排列组合.md",
     "笔记附件/Pasted image 20230406003846.png",
     "leetcode刷题/回溯问题.md",
@@ -258,11 +268,9 @@
     "笔记附件/Pasted image 20230405153811.png",
     "笔记附件/Pasted image 20230405153808.png",
     "笔记附件/Pasted image 20230405153603.png",
-    "笔记附件/Pasted image 20230405153347.png",
     "毕设改进方案.md",
     "算法/损失函数",
     "算法",
-    "leetcode刷题/滑动窗口法.md",
     "研究生/研究生综合评价细则.pdf",
     "算法笔记.md",
     "leetcode刷题",
