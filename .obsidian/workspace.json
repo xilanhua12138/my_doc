@@ -239,8 +239,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c7174d50c9ff08c3",
+  "active": "aa6aaab25747b44d",
   "lastOpenFiles": [
+    "笔记附件/Pasted image 20230410214436.png",
+    "leetcode刷题/小技巧.md",
     "leetcode刷题/面试",
     "leetcode刷题/动态规划问题——子序列问题.md",
     "leetcode刷题/滑动窗口法.md",
@@ -256,7 +258,6 @@
     "leetcode刷题/nSum问题.md",
     "leetcode刷题/链表中的双指针问题.md",
     "leetcode刷题/双指针问题.md",
-    "leetcode刷题/小技巧.md",
     "算法/损失函数/当L1不可导的时候怎么处理？.md",
     "算法/损失函数/为什么L1更容易产生稀疏解？.md",
     "算法/损失函数/L1和L2分别对应哪种先验分布？为什么？.md",
@@ -285,7 +286,6 @@
     "笔记附件",
     "研究生",
     "深度学习/自动驾驶/TPVFormer.md",
-    "Pasted image 20230326220433.png.md",
-    "深度学习/自动驾驶"
+    "Pasted image 20230326220433.png.md"
   ]
 }
