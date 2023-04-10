@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode刷题/经验.md",
+                "file": "leetcode刷题/贝芙汀面试总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode刷题/经验.md",
+                "file": "leetcode刷题/贝芙汀面试总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode刷题/经验.md",
+                "file": "leetcode刷题/贝芙汀面试总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode刷题/经验.md"
+                "file": "leetcode刷题/贝芙汀面试总结.md"
               }
             }
           }
@@ -233,8 +233,9 @@
   },
   "active": "aa6aaab25747b44d",
   "lastOpenFiles": [
-    "leetcode刷题/贝芙汀面试总结.md",
+    "笔记附件/Pasted image 20230410210139.png",
     "leetcode刷题/经验.md",
+    "leetcode刷题/贝芙汀面试总结.md",
     "leetcode刷题/动态规划问题——子序列问题.md",
     "leetcode刷题/回溯问题中的排列组合.md",
     "笔记附件/Pasted image 20230406003846.png",
@@ -277,7 +278,6 @@
     "研究生",
     "深度学习/自动驾驶/TPVFormer.md",
     "Pasted image 20230326220433.png.md",
-    "深度学习/目标检测算法/目标检测mAP详解.md",
     "深度学习/自动驾驶"
   ]
 }
