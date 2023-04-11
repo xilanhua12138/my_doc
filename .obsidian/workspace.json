@@ -68,18 +68,6 @@
             }
           },
           {
-            "id": "890ccc79c70a3a02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "leetcode刷题/面试/贝芙汀面试总结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "05f4b6cff0d3a90f",
             "type": "leaf",
             "state": {
@@ -92,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode刷题/面试/贝芙汀面试总结.md",
+                "file": "leetcode刷题/动态规划问题——子序列问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode刷题/面试/贝芙汀面试总结.md",
+                "file": "leetcode刷题/动态规划问题——子序列问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode刷题/面试/贝芙汀面试总结.md"
+                "file": "leetcode刷题/动态规划问题——子序列问题.md"
               }
             }
           }
@@ -227,8 +215,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "890ccc79c70a3a02",
+  "active": "24ce00fc28f35094",
   "lastOpenFiles": [
+    "leetcode刷题/小技巧.md",
+    "leetcode刷题/面试/贝芙汀面试总结.md",
     "笔记附件/Pasted image 20230411121000.png",
     "笔记附件/Pasted image 20230410234350.png",
     "笔记附件/Pasted image 20230410234336.png",
@@ -237,17 +227,14 @@
     "笔记附件/Pasted image 20230410234118.png",
     "笔记附件/Pasted image 20230410222047.png",
     "笔记附件/Pasted image 20230410214436.png",
-    "leetcode刷题/小技巧.md",
     "leetcode刷题/面试",
     "leetcode刷题/动态规划问题——子序列问题.md",
     "leetcode刷题/滑动窗口法.md",
-    "leetcode刷题/面试/贝芙汀面试总结.md",
     "笔记附件/Pasted image 20230410210139.png",
     "leetcode刷题/经验.md",
     "leetcode刷题/回溯问题中的排列组合.md",
     "笔记附件/Pasted image 20230406003846.png",
     "leetcode刷题/回溯问题.md",
-    "笔记附件/Pasted image 20230405223442.png",
     "leetcode刷题/nSum问题.md",
     "leetcode刷题/链表中的双指针问题.md",
     "leetcode刷题/双指针问题.md",
