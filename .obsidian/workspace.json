@@ -92,18 +92,6 @@
             }
           },
           {
-            "id": "0fa0a512cc204b0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "深度学习/ResNet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3e2a8e3b74ea35bd",
             "type": "leaf",
             "state": {
@@ -116,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -190,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深度学习/ResNet.md",
+                "file": "自动驾驶面经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深度学习/ResNet.md",
+                "file": "自动驾驶面经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深度学习/ResNet.md"
+                "file": "自动驾驶面经.md"
               }
             }
           }
@@ -251,10 +239,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0fa0a512cc204b0b",
+  "active": "298088f6095c0123",
   "lastOpenFiles": [
-    "自动驾驶面经.md",
     "深度学习/ResNet.md",
+    "自动驾驶面经.md",
     "leetcode刷题/动态规划问题——最长公共子序列问题（LCS）.md",
     "leetcode刷题/动态规划问题——编辑距离.md",
     "笔记附件/edit.gif",
