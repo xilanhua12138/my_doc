@@ -8,4 +8,27 @@ Here is a schematic diagram:
 ![[Pasted image 20230426122925.png]]
 ![[Pasted image 20230426123006.png]]
 
+# Passage Retrival
+&emsp;&emsp;For the article retrieval method, we utilize semantic retrieval. First, we utilize the all-MiniLM-L6-v2 model for semantic encoding, encoding it into vector space. Similarly, we encode one million articles. By comparing the inquiry encoding and article encodings' proximity, we can achieve searching for articles corresponding to the inquiry. To expedite search speed, referencing the Faiss project, we construct a large vector space for the article database corresponding index, rapidly searching via Faiss algorithms for k articles most proximate to the inquiry. Here, we set k=20. We then utilize the ms-marco-MiniLM-L-6-v2 model, a cross encoder, to further analyses the relevance of inquiries and articles, re-ranking. Finally, we opt for the top 10 articles as input for the FiD model.
+
 # Faithful Prediction
+&emsp;&emsp;To make faithful predictions, first, we used the C4 article retrieval dataset, which was released in 2020, to ensure that the test questions would not be exposed to future information. And the model we used was also approved in the competition. Secondly, during the testing phase, we did not use any predictions from humans. We only used articles retrieved based on the C4 dataset. Here, it should be noted that during the training stage, we did not specifically ensure that future information leakage related to the retrieved articles was prevented. We only ensured that it was not leaked during the testing stage. In addition, for questions without answers during the training stage, we selected the last crowd forecast before the close time as the answer.
+# How to Use
+1.To convert the question into a format that FiD can accept
+```python
+python ./builddataset/datasetbuild_test.py
+```
+**Remember to change your data set path in py file.
+
+2.Retrieving relevant articles for your question
+```python
+python ./builddataset/build_autocast_dataset_with_c4.py
+```
+**Remember to change your input path and output path in py file, here wo don't need to split the dataset because now is the test stage.
+It is advisable to utilize two conda environments here, as incompatible version issues require you to create separate environments for the FiD model and the current sentence retrieval system (Sentence Transformer) respectively.
+
+3.To carry out prediction
+```python
+python ./test/valid_uni.py
+```
+**Remember to change your input path and output path in py file, here wo don't need to split the dataset because now is the test stage.
