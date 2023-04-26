@@ -32,3 +32,8 @@ It is advisable to utilize two conda environments here, as incompatible version 
 python ./test/valid_uni.py
 ```
 **Remember to change your input path and output path in py file, here wo don't need to split the dataset because now is the test stage.
+
+&emsp;&emsp;The relevant pre-trained models and resources required for article retrieval can be downloaded from this link: 
+
+&emsp;&emsp;It should be noted that num_without_predict corresponds to the model for predicting NUM, mc_without_predict corresponds to the model for predicting MCQ, and tf_without_predict corresponds to the model for predicting TF. index_c4_realnewslike_more_1M.faiss constitutes the constructed Faiss index vector space. passages_with_time_stamp_c4_realnewslike_1M.json contains one million C4 news articles. autocast_questions_k_10_test_without_predict.json is the test set with articles that have already been retrieved.
+
