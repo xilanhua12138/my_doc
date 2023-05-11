@@ -107,9 +107,11 @@
             "id": "db90b6e06ebf688f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "算法/损失函数/L1和L2分别对应哪种先验分布？为什么？.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -208,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自动驾驶面经.md",
+                "file": "算法/损失函数/L1和L2分别对应哪种先验分布？为什么？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "自动驾驶面经.md",
+                "file": "算法/损失函数/L1和L2分别对应哪种先验分布？为什么？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "自动驾驶面经.md"
+                "file": "算法/损失函数/L1和L2分别对应哪种先验分布？为什么？.md"
               }
             }
           }
@@ -271,6 +273,11 @@
   },
   "active": "db90b6e06ebf688f",
   "lastOpenFiles": [
+    "算法/概率统计/从概率统计理解线性回归.md",
+    "算法/概率统计/MLE（极大似然估计）和MAP（最大后验估计）.md",
+    "算法/损失函数/当L1不可导的时候怎么处理？.md",
+    "算法/损失函数/L1和L2分别对应哪种先验分布？为什么？.md",
+    "算法/损失函数/为什么L1更容易产生稀疏解？.md",
     "readme.md",
     "笔记附件/Pasted image 20230426123006.png",
     "笔记附件/Pasted image 20230426122957.png",
@@ -298,12 +305,7 @@
     "leetcode刷题/面试",
     "leetcode刷题/滑动窗口法.md",
     "leetcode刷题/回溯问题.md",
-    "算法/损失函数/当L1不可导的时候怎么处理？.md",
-    "算法/损失函数/为什么L1更容易产生稀疏解？.md",
-    "算法/损失函数/L1和L2分别对应哪种先验分布？为什么？.md",
-    "算法/概率统计/MLE（极大似然估计）和MAP（最大后验估计）.md",
     "算法/概率统计",
-    "算法/概率统计/从概率统计理解线性回归.md",
     "毕设改进方案.md",
     "算法/损失函数",
     "算法",
