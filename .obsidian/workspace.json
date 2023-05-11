@@ -104,6 +104,16 @@
             }
           },
           {
+            "id": "db90b6e06ebf688f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
+          },
+          {
             "id": "3e2a8e3b74ea35bd",
             "type": "leaf",
             "state": {
@@ -116,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -167,6 +177,14 @@
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b86183570aff0f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -251,7 +269,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cc4bbea35260f9db",
+  "active": "db90b6e06ebf688f",
   "lastOpenFiles": [
     "readme.md",
     "笔记附件/Pasted image 20230426123006.png",
