@@ -119,9 +119,11 @@
             "id": "50a48755e7e2e23c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "算法/概率统计/MLE（极大似然估计）和MAP（最大后验估计）.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -220,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/损失函数/L1和L2分别对应哪种先验分布？为什么？.md",
+                "file": "算法/概率统计/MLE（极大似然估计）和MAP（最大后验估计）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/损失函数/L1和L2分别对应哪种先验分布？为什么？.md",
+                "file": "算法/概率统计/MLE（极大似然估计）和MAP（最大后验估计）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法/损失函数/L1和L2分别对应哪种先验分布？为什么？.md"
+                "file": "算法/概率统计/MLE（极大似然估计）和MAP（最大后验估计）.md"
               }
             }
           }
