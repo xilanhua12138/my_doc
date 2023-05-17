@@ -116,6 +116,16 @@
             }
           },
           {
+            "id": "50a48755e7e2e23c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
             "id": "3e2a8e3b74ea35bd",
             "type": "leaf",
             "state": {
@@ -128,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -271,7 +281,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "db90b6e06ebf688f",
+  "active": "50a48755e7e2e23c",
   "lastOpenFiles": [
     "算法/概率统计/从概率统计理解线性回归.md",
     "算法/概率统计/MLE（极大似然估计）和MAP（最大后验估计）.md",
