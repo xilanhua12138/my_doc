@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode刷题/nSum问题.md",
+                "file": "nerf/Instant-NGP.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "16828e37a638b140",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode刷题/nSum问题.md",
+                "file": "nerf/Instant-NGP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode刷题/nSum问题.md",
+                "file": "nerf/Instant-NGP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode刷题/nSum问题.md"
+                "file": "nerf/Instant-NGP.md"
               }
             }
           }
@@ -173,13 +162,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "16828e37a638b140",
+  "active": "14e793f3ce131ac9",
   "lastOpenFiles": [
-    "nerf/Nerf-W.md",
+    "笔记附件/Pasted image 20230826140703.png",
     "nerf/D-Nerf.md",
+    "nerf/Instant-NGP.md",
+    "nerf/PixelNerf.md",
+    "readme.md",
+    "leetcode刷题/nSum问题.md",
+    "nerf/Nerf-W.md",
     "笔记附件/Pasted image 20230825214627.png",
     "nerf/DynaIBaR.md",
-    "nerf/PixelNerf.md",
     "nerf/光线生成（rays）.md",
     "笔记附件/Pasted image 20230702003641.png",
     "nerf",
@@ -193,7 +186,6 @@
     "算法/概率统计/从概率统计理解线性回归.md",
     "算法/损失函数/当L1不可导的时候怎么处理？.md",
     "算法/损失函数/为什么L1更容易产生稀疏解？.md",
-    "readme.md",
     "笔记附件/Pasted image 20230426123006.png",
     "笔记附件/Pasted image 20230426122957.png",
     "笔记附件/Pasted image 20230426122934.png",
@@ -208,11 +200,8 @@
     "leetcode刷题/经验.md",
     "leetcode刷题/双指针问题.md",
     "leetcode刷题/小技巧.md",
-    "leetcode刷题/nSum问题.md",
     "leetcode刷题/面试/贝芙汀面试总结.md",
     "leetcode刷题/面试",
-    "leetcode刷题/滑动窗口法.md",
-    "leetcode刷题/回溯问题.md",
     "算法/概率统计",
     "算法/损失函数",
     "算法",

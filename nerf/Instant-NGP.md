@@ -1,0 +1,7 @@
+#### 核心：Encoding方法
+本文提出了一种基于hash表映射的encoding方式
+![[Pasted image 20230826140703.png]]
+在nerf中，对于一张图片800x600假如每个像素点采样20个点，那么就会总共需要采样800x600x20次，加上每个点都需要按照之前的方法做frequency encoding那么就会导致运算量特别大。
+本文提出的hash encoding的方法将上述的800x600x20划分为不同分辨率的grid，在不同分辨率的grid中进行encoding，对于grid内的实际采样点使用插值的方法计算，然后将不同分辨率下的encoding进行concat从而就得到了想要点的encoding。
+完整的过程是：
+先对不同分辨率下的grid计算出其encoding，对于后面要计算encoding的实际点首先查hash表，然后进行插值，再concat
