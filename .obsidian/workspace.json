@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16828e37a638b140",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +173,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "14e793f3ce131ac9",
+  "active": "16828e37a638b140",
   "lastOpenFiles": [
     "nerf/Nerf-W.md",
     "nerf/D-Nerf.md",
