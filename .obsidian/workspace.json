@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nerf/Nerfies.md",
+                "file": "nerf/HyperNerf.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nerf/Nerfies.md",
+                "file": "nerf/HyperNerf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nerf/Nerfies.md",
+                "file": "nerf/HyperNerf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nerf/Nerfies.md"
+                "file": "nerf/HyperNerf.md"
               }
             }
           }
@@ -164,22 +164,28 @@
   },
   "active": "14e793f3ce131ac9",
   "lastOpenFiles": [
-    "笔记附件/Pasted image 20230828113439.png",
-    "nerf/D-Nerf.md",
     "nerf/Nerfies.md",
+    "nerf/HyperNerf.md",
+    "笔记附件/Pasted image 20230828115117.png",
     "nerf/Nerf-W.md",
     "nerf/Instant-NGP.md",
+    "毕设改进方案.md",
+    "nerf/PixelNerf.md",
+    "leetcode刷题/面试/贝芙汀面试总结.md",
+    "笔记附件/Pasted image 20230828114333.png",
+    "笔记附件/Pasted image 20230828114310.png",
+    "笔记附件/Pasted image 20230828114257.png",
+    "笔记附件/Pasted image 20230828113439.png",
+    "nerf/D-Nerf.md",
     "笔记附件/Pasted image 20230828112030.png",
     "笔记附件/Pasted image 20230828111157.png",
     "笔记附件/Pasted image 20230828111122.png",
     "nerf/DynaIBaR.md",
-    "nerf/PixelNerf.md",
     "笔记附件/Pasted image 20230826140703.png",
     "readme.md",
     "leetcode刷题/nSum问题.md",
     "笔记附件/Pasted image 20230825214627.png",
     "nerf/光线生成（rays）.md",
-    "笔记附件/Pasted image 20230702003641.png",
     "nerf",
     "leetcode刷题/回溯问题中的排列组合.md",
     "算法/概率统计/MLE（极大似然估计）和MAP（最大后验估计）.md",
@@ -191,16 +197,10 @@
     "算法/概率统计/从概率统计理解线性回归.md",
     "算法/损失函数/当L1不可导的时候怎么处理？.md",
     "算法/损失函数/为什么L1更容易产生稀疏解？.md",
-    "笔记附件/Pasted image 20230426123006.png",
-    "笔记附件/Pasted image 20230426122957.png",
-    "笔记附件/Pasted image 20230426122934.png",
-    "笔记附件/Pasted image 20230426122925.png",
     "leetcode刷题/Rabin-Karp算法.md",
     "深度学习/ResNet.md",
     "leetcode刷题/链表中的双指针问题.md",
     "leetcode刷题/经验.md",
-    "leetcode刷题/双指针问题.md",
-    "leetcode刷题/小技巧.md",
     "leetcode刷题/面试",
     "算法/概率统计",
     "算法/损失函数",
