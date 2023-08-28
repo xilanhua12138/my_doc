@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nerf/Instant-NGP.md",
+                "file": "nerf/PixelNerf.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nerf/Instant-NGP.md",
+                "file": "nerf/PixelNerf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nerf/Instant-NGP.md",
+                "file": "nerf/PixelNerf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nerf/Instant-NGP.md"
+                "file": "nerf/PixelNerf.md"
               }
             }
           }
@@ -164,15 +164,15 @@
   },
   "active": "14e793f3ce131ac9",
   "lastOpenFiles": [
-    "笔记附件/Pasted image 20230826140703.png",
-    "nerf/D-Nerf.md",
+    "nerf/Nerf-W.md",
+    "nerf/DynaIBaR.md",
     "nerf/Instant-NGP.md",
+    "nerf/D-Nerf.md",
     "nerf/PixelNerf.md",
+    "笔记附件/Pasted image 20230826140703.png",
     "readme.md",
     "leetcode刷题/nSum问题.md",
-    "nerf/Nerf-W.md",
     "笔记附件/Pasted image 20230825214627.png",
-    "nerf/DynaIBaR.md",
     "nerf/光线生成（rays）.md",
     "笔记附件/Pasted image 20230702003641.png",
     "nerf",
@@ -195,7 +195,6 @@
     "笔记附件/Pasted image 20230418185859.png",
     "leetcode刷题/Rabin-Karp算法.md",
     "深度学习/ResNet.md",
-    "笔记附件/edit.gif",
     "leetcode刷题/链表中的双指针问题.md",
     "leetcode刷题/经验.md",
     "leetcode刷题/双指针问题.md",
