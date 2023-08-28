@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nerf/PixelNerf.md",
+                "file": "nerf/Nerf-W.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nerf/PixelNerf.md",
+                "file": "nerf/Nerf-W.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nerf/PixelNerf.md",
+                "file": "nerf/Nerf-W.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nerf/PixelNerf.md"
+                "file": "nerf/Nerf-W.md"
               }
             }
           }
@@ -164,11 +164,13 @@
   },
   "active": "14e793f3ce131ac9",
   "lastOpenFiles": [
+    "笔记附件/Pasted image 20230828111157.png",
+    "笔记附件/Pasted image 20230828111122.png",
+    "nerf/Instant-NGP.md",
     "nerf/Nerf-W.md",
     "nerf/DynaIBaR.md",
-    "nerf/Instant-NGP.md",
-    "nerf/D-Nerf.md",
     "nerf/PixelNerf.md",
+    "nerf/D-Nerf.md",
     "笔记附件/Pasted image 20230826140703.png",
     "readme.md",
     "leetcode刷题/nSum问题.md",
@@ -192,7 +194,6 @@
     "笔记附件/Pasted image 20230426122925.png",
     "笔记附件/Pasted image 20230418201416.png",
     "笔记附件/Pasted image 20230418201348.png",
-    "笔记附件/Pasted image 20230418185859.png",
     "leetcode刷题/Rabin-Karp算法.md",
     "深度学习/ResNet.md",
     "leetcode刷题/链表中的双指针问题.md",
