@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nerf/Nerfies.md",
+                "file": "nerf/HyperNerf.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nerf/Nerfies.md",
+                "file": "nerf/HyperNerf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nerf/Nerfies.md",
+                "file": "nerf/HyperNerf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nerf/Nerfies.md"
+                "file": "nerf/HyperNerf.md"
               }
             }
           }
@@ -162,14 +162,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "14e793f3ce131ac9",
+  "active": "c7174d50c9ff08c3",
   "lastOpenFiles": [
-    "nerf/PixelNerf.md",
-    "nerf/Nerf-W.md",
     "nerf/Nerfies.md",
-    "nerf/Instant-NGP.md",
     "nerf/HyperNerf.md",
+    "nerf/Nerf-W.md",
+    "nerf/PixelNerf.md",
     "nerf/D-Nerf.md",
+    "nerf/Instant-NGP.md",
     "nerf/DynaIBaR.md",
     "笔记附件/Pasted image 20230828115117.png",
     "毕设改进方案.md",
