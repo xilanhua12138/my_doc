@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nerf/HyperNerf.md",
+                "file": "nerf/Nerfies.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nerf/HyperNerf.md",
+                "file": "nerf/Nerfies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nerf/HyperNerf.md",
+                "file": "nerf/Nerfies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nerf/HyperNerf.md"
+                "file": "nerf/Nerfies.md"
               }
             }
           }
@@ -164,23 +164,23 @@
   },
   "active": "14e793f3ce131ac9",
   "lastOpenFiles": [
-    "nerf/Nerfies.md",
-    "nerf/HyperNerf.md",
-    "笔记附件/Pasted image 20230828115117.png",
-    "nerf/Nerf-W.md",
-    "nerf/Instant-NGP.md",
-    "毕设改进方案.md",
     "nerf/PixelNerf.md",
+    "nerf/Nerf-W.md",
+    "nerf/Nerfies.md",
+    "nerf/Instant-NGP.md",
+    "nerf/HyperNerf.md",
+    "nerf/D-Nerf.md",
+    "nerf/DynaIBaR.md",
+    "笔记附件/Pasted image 20230828115117.png",
+    "毕设改进方案.md",
     "leetcode刷题/面试/贝芙汀面试总结.md",
     "笔记附件/Pasted image 20230828114333.png",
     "笔记附件/Pasted image 20230828114310.png",
     "笔记附件/Pasted image 20230828114257.png",
     "笔记附件/Pasted image 20230828113439.png",
-    "nerf/D-Nerf.md",
     "笔记附件/Pasted image 20230828112030.png",
     "笔记附件/Pasted image 20230828111157.png",
     "笔记附件/Pasted image 20230828111122.png",
-    "nerf/DynaIBaR.md",
     "笔记附件/Pasted image 20230826140703.png",
     "readme.md",
     "leetcode刷题/nSum问题.md",
