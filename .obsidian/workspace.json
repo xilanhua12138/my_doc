@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nerf/HyperNerf.md",
+                "file": "nerf/Instant-NGP.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nerf/HyperNerf.md",
+                "file": "nerf/Instant-NGP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nerf/HyperNerf.md",
+                "file": "nerf/Instant-NGP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nerf/HyperNerf.md"
+                "file": "nerf/Instant-NGP.md"
               }
             }
           }
@@ -162,15 +162,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c7174d50c9ff08c3",
+  "active": "14e793f3ce131ac9",
   "lastOpenFiles": [
-    "nerf/Nerfies.md",
     "nerf/HyperNerf.md",
-    "nerf/Nerf-W.md",
-    "nerf/PixelNerf.md",
-    "nerf/D-Nerf.md",
     "nerf/Instant-NGP.md",
+    "nerf/Nerf-W.md",
+    "nerf/Nerfies.md",
+    "nerf/PixelNerf.md",
     "nerf/DynaIBaR.md",
+    "nerf/D-Nerf.md",
+    "笔记附件/Pasted image 20230829121024.png",
     "笔记附件/Pasted image 20230828115117.png",
     "毕设改进方案.md",
     "leetcode刷题/面试/贝芙汀面试总结.md",
@@ -184,7 +185,6 @@
     "笔记附件/Pasted image 20230826140703.png",
     "readme.md",
     "leetcode刷题/nSum问题.md",
-    "笔记附件/Pasted image 20230825214627.png",
     "nerf/光线生成（rays）.md",
     "nerf",
     "leetcode刷题/回溯问题中的排列组合.md",
@@ -200,7 +200,6 @@
     "leetcode刷题/Rabin-Karp算法.md",
     "深度学习/ResNet.md",
     "leetcode刷题/链表中的双指针问题.md",
-    "leetcode刷题/经验.md",
     "leetcode刷题/面试",
     "算法/概率统计",
     "算法/损失函数",
