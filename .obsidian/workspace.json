@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nerf/Instant-NGP.md",
+                "file": "nerf/Nerfies.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nerf/Instant-NGP.md",
+                "file": "nerf/Nerfies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nerf/Instant-NGP.md",
+                "file": "nerf/Nerfies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nerf/Instant-NGP.md"
+                "file": "nerf/Nerfies.md"
               }
             }
           }
@@ -164,13 +164,14 @@
   },
   "active": "14e793f3ce131ac9",
   "lastOpenFiles": [
-    "nerf/HyperNerf.md",
-    "nerf/Instant-NGP.md",
     "nerf/Nerf-W.md",
+    "nerf/Instant-NGP.md",
+    "nerf/HyperNerf.md",
+    "nerf/DynaIBaR.md",
+    "nerf/光线生成（rays）.md",
+    "nerf/D-Nerf.md",
     "nerf/Nerfies.md",
     "nerf/PixelNerf.md",
-    "nerf/DynaIBaR.md",
-    "nerf/D-Nerf.md",
     "笔记附件/Pasted image 20230829121024.png",
     "笔记附件/Pasted image 20230828115117.png",
     "毕设改进方案.md",
@@ -185,7 +186,6 @@
     "笔记附件/Pasted image 20230826140703.png",
     "readme.md",
     "leetcode刷题/nSum问题.md",
-    "nerf/光线生成（rays）.md",
     "nerf",
     "leetcode刷题/回溯问题中的排列组合.md",
     "算法/概率统计/MLE（极大似然估计）和MAP（最大后验估计）.md",
