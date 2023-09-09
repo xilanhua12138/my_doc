@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "90b16618e95850e6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,8 +173,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "14e793f3ce131ac9",
+  "active": "90b16618e95850e6",
   "lastOpenFiles": [
+    "笔记附件/Pasted image 20230907022624.png",
+    "笔记附件/Pasted image 20230907022348.png",
     "nerf/Nerf-W.md",
     "nerf/Instant-NGP.md",
     "nerf/HyperNerf.md",
@@ -183,7 +196,6 @@
     "笔记附件/Pasted image 20230828112030.png",
     "笔记附件/Pasted image 20230828111157.png",
     "笔记附件/Pasted image 20230828111122.png",
-    "笔记附件/Pasted image 20230826140703.png",
     "readme.md",
     "leetcode刷题/nSum问题.md",
     "nerf",
