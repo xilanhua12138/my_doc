@@ -13,24 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nerf/Nerfies.md",
+                "file": "nerf/FreeNerf.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "90b16618e95850e6",
+            "id": "7e7c984a1d4e4d00",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "nerf/Nerfies.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nerf/Nerfies.md",
+                "file": "nerf/FreeNerf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nerf/Nerfies.md",
+                "file": "nerf/FreeNerf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nerf/Nerfies.md"
+                "file": "nerf/FreeNerf.md"
               }
             }
           }
@@ -173,8 +174,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "90b16618e95850e6",
+  "active": "14e793f3ce131ac9",
   "lastOpenFiles": [
+    "笔记附件/Pasted image 20230909113206.png",
+    "笔记附件/Pasted image 20230909112216.png",
+    "笔记附件/Pasted image 20230909112159.png",
+    "笔记附件/Pasted image 20230909112017.png",
+    "笔记附件/Pasted image 20230909112009.png",
+    "nerf/Nerfies.md",
+    "nerf/FreeNerf.md",
+    "leetcode刷题/面试/贝芙汀面试总结.md",
+    "leetcode刷题/滑动窗口法.md",
     "笔记附件/Pasted image 20230907022624.png",
     "笔记附件/Pasted image 20230907022348.png",
     "nerf/Nerf-W.md",
@@ -183,19 +193,12 @@
     "nerf/DynaIBaR.md",
     "nerf/光线生成（rays）.md",
     "nerf/D-Nerf.md",
-    "nerf/Nerfies.md",
     "nerf/PixelNerf.md",
     "笔记附件/Pasted image 20230829121024.png",
     "笔记附件/Pasted image 20230828115117.png",
     "毕设改进方案.md",
-    "leetcode刷题/面试/贝芙汀面试总结.md",
     "笔记附件/Pasted image 20230828114333.png",
     "笔记附件/Pasted image 20230828114310.png",
-    "笔记附件/Pasted image 20230828114257.png",
-    "笔记附件/Pasted image 20230828113439.png",
-    "笔记附件/Pasted image 20230828112030.png",
-    "笔记附件/Pasted image 20230828111157.png",
-    "笔记附件/Pasted image 20230828111122.png",
     "readme.md",
     "leetcode刷题/nSum问题.md",
     "nerf",
@@ -210,8 +213,6 @@
     "算法/损失函数/当L1不可导的时候怎么处理？.md",
     "算法/损失函数/为什么L1更容易产生稀疏解？.md",
     "leetcode刷题/Rabin-Karp算法.md",
-    "深度学习/ResNet.md",
-    "leetcode刷题/链表中的双指针问题.md",
     "leetcode刷题/面试",
     "算法/概率统计",
     "算法/损失函数",
