@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nerf/HyperNerf.md",
+                "file": "nerf/新思路.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nerf/HyperNerf.md",
+                "file": "nerf/新思路.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nerf/HyperNerf.md",
+                "file": "nerf/新思路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nerf/HyperNerf.md"
+                "file": "nerf/新思路.md"
               }
             }
           }
@@ -164,13 +164,15 @@
   },
   "active": "14e793f3ce131ac9",
   "lastOpenFiles": [
+    "nerf/D-Nerf.md",
+    "nerf/FreeNerf.md",
+    "nerf/新思路.md",
+    "nerf/DynaIBaR.md",
+    "nerf/HyperNerf.md",
     "nerf/Instant-NGP.md",
     "nerf/PixelNerf.md",
     "nerf/Nerfies.md",
-    "nerf/HyperNerf.md",
     "nerf/Nerf-W.md",
-    "nerf/FreeNerf.md",
-    "nerf/DynaIBaR.md",
     "笔记附件/Pasted image 20230909113206.png",
     "笔记附件/Pasted image 20230909112216.png",
     "笔记附件/Pasted image 20230909112159.png",
@@ -181,7 +183,6 @@
     "笔记附件/Pasted image 20230907022624.png",
     "笔记附件/Pasted image 20230907022348.png",
     "nerf/光线生成（rays）.md",
-    "nerf/D-Nerf.md",
     "笔记附件/Pasted image 20230829121024.png",
     "笔记附件/Pasted image 20230828115117.png",
     "毕设改进方案.md",

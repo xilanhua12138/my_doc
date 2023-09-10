@@ -24,6 +24,8 @@ We note that our frequency regularization shares some similarities with the coar
 
 ## Occlusion Regularization
 
+局限性：
+**太straight了这个想法，万一前景是我要的东西呢？**
 ![[Pasted image 20230909113206.png]]
 其中mk是一个二进制掩码向量，用于确定一个点是否会受到惩罚，σK表示沿射线采样的K个点的密度值，按接近原点的顺序（从近到远）。为了减少相机附近的固体漂浮物，我们将mk到索引M（称为正则化范围）的值设置为1，其余值设置为0。遮挡正则化损失易于实现和计算。
 
