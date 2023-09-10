@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nerf/FreeNerf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e7c984a1d4e4d00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nerf/Nerfies.md",
+                "file": "nerf/HyperNerf.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nerf/FreeNerf.md",
+                "file": "nerf/HyperNerf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nerf/FreeNerf.md",
+                "file": "nerf/HyperNerf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nerf/FreeNerf.md"
+                "file": "nerf/HyperNerf.md"
               }
             }
           }
@@ -176,29 +164,28 @@
   },
   "active": "14e793f3ce131ac9",
   "lastOpenFiles": [
+    "nerf/Instant-NGP.md",
+    "nerf/PixelNerf.md",
+    "nerf/Nerfies.md",
+    "nerf/HyperNerf.md",
+    "nerf/Nerf-W.md",
+    "nerf/FreeNerf.md",
+    "nerf/DynaIBaR.md",
     "笔记附件/Pasted image 20230909113206.png",
     "笔记附件/Pasted image 20230909112216.png",
     "笔记附件/Pasted image 20230909112159.png",
     "笔记附件/Pasted image 20230909112017.png",
     "笔记附件/Pasted image 20230909112009.png",
-    "nerf/Nerfies.md",
-    "nerf/FreeNerf.md",
     "leetcode刷题/面试/贝芙汀面试总结.md",
     "leetcode刷题/滑动窗口法.md",
     "笔记附件/Pasted image 20230907022624.png",
     "笔记附件/Pasted image 20230907022348.png",
-    "nerf/Nerf-W.md",
-    "nerf/Instant-NGP.md",
-    "nerf/HyperNerf.md",
-    "nerf/DynaIBaR.md",
     "nerf/光线生成（rays）.md",
     "nerf/D-Nerf.md",
-    "nerf/PixelNerf.md",
     "笔记附件/Pasted image 20230829121024.png",
     "笔记附件/Pasted image 20230828115117.png",
     "毕设改进方案.md",
     "笔记附件/Pasted image 20230828114333.png",
-    "笔记附件/Pasted image 20230828114310.png",
     "readme.md",
     "leetcode刷题/nSum问题.md",
     "nerf",

@@ -2,6 +2,7 @@
 
 
 ## Frequency Regularization
+
 Nerfies中是这样：
 粗到细退火的位置编码位置γα(x)
 ![[Pasted image 20230907022348.png]]
@@ -22,9 +23,12 @@ We note that our frequency regularization shares some similarities with the coar
 ![[Pasted image 20230909112216.png]]
 
 ## Occlusion Regularization
+
 ![[Pasted image 20230909113206.png]]
 其中mk是一个二进制掩码向量，用于确定一个点是否会受到惩罚，σK表示沿射线采样的K个点的密度值，按接近原点的顺序（从近到远）。为了减少相机附近的固体漂浮物，我们将mk到索引M（称为正则化范围）的值设置为1，其余值设置为0。遮挡正则化损失易于实现和计算。
 
-意思就是从
+**意思就是**
+这个 occlusion regularization loss 的目的是为了减少视角中靠近相机的浮体(floater)。具体方法是对沿射线采样的点进行惩罚,靠近相机的点惩罚越大,远离相机的点惩罚越小。
+通过设定一个 regularization range M, 在这个范围内的点 mk 被置为1,也就是会受到惩罚;超出这个范围的点 mk 被置为0,不受惩罚。这样可以减少相机附近不合理的浮体出现。这个损失函数计算简单有效,是一种简单的遮挡正则化方法。
 
 
