@@ -23,9 +23,11 @@
             "id": "8a5aa6b0e8560de2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "nerf/SparseNerf.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -183,17 +185,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8a5aa6b0e8560de2",
+  "active": "c7174d50c9ff08c3",
   "lastOpenFiles": [
-    "nerf/D-Nerf.md",
-    "nerf/FreeNerf.md",
-    "nerf/新思路.md",
-    "nerf/DynaIBaR.md",
-    "nerf/HyperNerf.md",
-    "nerf/Instant-NGP.md",
-    "nerf/PixelNerf.md",
+    "nerf/PixelNerf （Single-shot）.md",
+    "nerf/SparseNerf.md",
     "nerf/Nerfies.md",
+    "nerf/HyperNerf （动态）.md",
+    "nerf/Instant-NGP.md",
+    "nerf/FreeNerf （Few-shot）.md",
+    "nerf/DynaIBaR.md",
+    "nerf/D-Nerf （动态）.md",
     "nerf/Nerf-W.md",
+    "笔记附件/Pasted image 20230919114454.png",
+    "笔记附件/Pasted image 20230919114421.png",
+    "nerf/新思路.md",
     "笔记附件/Pasted image 20230909113206.png",
     "笔记附件/Pasted image 20230909112216.png",
     "笔记附件/Pasted image 20230909112159.png",
@@ -205,9 +210,7 @@
     "笔记附件/Pasted image 20230907022348.png",
     "nerf/光线生成（rays）.md",
     "笔记附件/Pasted image 20230829121024.png",
-    "笔记附件/Pasted image 20230828115117.png",
     "毕设改进方案.md",
-    "笔记附件/Pasted image 20230828114333.png",
     "readme.md",
     "leetcode刷题/nSum问题.md",
     "nerf",
@@ -220,8 +223,6 @@
     "leetcode刷题/动态规划问题——编辑距离.md",
     "算法/概率统计/从概率统计理解线性回归.md",
     "算法/损失函数/当L1不可导的时候怎么处理？.md",
-    "算法/损失函数/为什么L1更容易产生稀疏解？.md",
-    "leetcode刷题/Rabin-Karp算法.md",
     "leetcode刷题/面试",
     "算法/概率统计",
     "算法/损失函数",
