@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nerf/Nerfies.md",
+                "file": "nerf/Mip-Nerf.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nerf/新思路.md",
+                "file": "nerf/Mip-Nerf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nerf/新思路.md",
+                "file": "nerf/Mip-Nerf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nerf/新思路.md"
+                "file": "nerf/Mip-Nerf.md"
               }
             }
           },
@@ -185,19 +185,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c7174d50c9ff08c3",
+  "active": "8a5aa6b0e8560de2",
   "lastOpenFiles": [
-    "nerf/新思路.md",
-    "nerf/DynaIBaR.md",
+    "笔记附件/Pasted image 20231005004156.png",
+    "nerf/PixelNerf （Single-shot）.md",
+    "nerf/Mip-Nerf.md",
+    "nerf/Nerfies.md",
+    "nerf/Nerf-W.md",
     "nerf/Instant-NGP.md",
+    "nerf/HyperNerf （动态）.md",
     "nerf/FreeNerf （Few-shot）.md",
     "nerf/D-Nerf （动态）.md",
+    "nerf/DynaIBaR.md",
+    "nerf/新思路.md",
     "nerf/光线生成（rays）.md",
-    "nerf/Nerf-W.md",
     "nerf/SparseNerf.md",
-    "nerf/PixelNerf （Single-shot）.md",
-    "nerf/Nerfies.md",
-    "nerf/HyperNerf （动态）.md",
     "笔记附件/Pasted image 20230919114454.png",
     "笔记附件/Pasted image 20230919114421.png",
     "笔记附件/Pasted image 20230909113206.png",
@@ -222,7 +224,6 @@
     "leetcode刷题/动态规划问题——最长公共子序列问题（LCS）.md",
     "leetcode刷题/动态规划问题——编辑距离.md",
     "算法/概率统计/从概率统计理解线性回归.md",
-    "算法/损失函数/当L1不可导的时候怎么处理？.md",
     "leetcode刷题/面试",
     "算法/概率统计",
     "算法/损失函数",
