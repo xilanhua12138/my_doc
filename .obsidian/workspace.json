@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nerf/SparseNerf.md",
+                "file": "nerf/Nerfies.md",
                 "mode": "source",
                 "source": false
               }
@@ -187,18 +187,19 @@
   },
   "active": "c7174d50c9ff08c3",
   "lastOpenFiles": [
-    "nerf/PixelNerf （Single-shot）.md",
-    "nerf/SparseNerf.md",
-    "nerf/Nerfies.md",
-    "nerf/HyperNerf （动态）.md",
+    "nerf/新思路.md",
+    "nerf/DynaIBaR.md",
     "nerf/Instant-NGP.md",
     "nerf/FreeNerf （Few-shot）.md",
-    "nerf/DynaIBaR.md",
     "nerf/D-Nerf （动态）.md",
+    "nerf/光线生成（rays）.md",
     "nerf/Nerf-W.md",
+    "nerf/SparseNerf.md",
+    "nerf/PixelNerf （Single-shot）.md",
+    "nerf/Nerfies.md",
+    "nerf/HyperNerf （动态）.md",
     "笔记附件/Pasted image 20230919114454.png",
     "笔记附件/Pasted image 20230919114421.png",
-    "nerf/新思路.md",
     "笔记附件/Pasted image 20230909113206.png",
     "笔记附件/Pasted image 20230909112216.png",
     "笔记附件/Pasted image 20230909112159.png",
@@ -208,7 +209,6 @@
     "leetcode刷题/滑动窗口法.md",
     "笔记附件/Pasted image 20230907022624.png",
     "笔记附件/Pasted image 20230907022348.png",
-    "nerf/光线生成（rays）.md",
     "笔记附件/Pasted image 20230829121024.png",
     "毕设改进方案.md",
     "readme.md",
