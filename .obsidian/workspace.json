@@ -35,9 +35,11 @@
             "id": "7a4e2e1dcc2d547f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "nerf/Mip-Nerf.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -197,6 +199,9 @@
   },
   "active": "7a4e2e1dcc2d547f",
   "lastOpenFiles": [
+    "笔记附件/Pasted image 20231005213218.png",
+    "笔记附件/Pasted image 20231005213211.png",
+    "笔记附件/Pasted image 20231005213150.png",
     "笔记附件/Pasted image 20231005004156.png",
     "nerf/PixelNerf （Single-shot）.md",
     "nerf/Mip-Nerf.md",
@@ -219,9 +224,6 @@
     "笔记附件/Pasted image 20230909112009.png",
     "leetcode刷题/面试/贝芙汀面试总结.md",
     "leetcode刷题/滑动窗口法.md",
-    "笔记附件/Pasted image 20230907022624.png",
-    "笔记附件/Pasted image 20230907022348.png",
-    "笔记附件/Pasted image 20230829121024.png",
     "毕设改进方案.md",
     "readme.md",
     "leetcode刷题/nSum问题.md",
