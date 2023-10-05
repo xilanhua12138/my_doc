@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a4e2e1dcc2d547f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +195,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8a5aa6b0e8560de2",
+  "active": "7a4e2e1dcc2d547f",
   "lastOpenFiles": [
     "笔记附件/Pasted image 20231005004156.png",
     "nerf/PixelNerf （Single-shot）.md",
