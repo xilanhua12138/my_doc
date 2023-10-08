@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nerf/Mip-Nerf.md",
+                "file": "nerf/新思路.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nerf/Mip-Nerf.md",
+                "file": "nerf/新思路.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nerf/Mip-Nerf.md",
+                "file": "nerf/新思路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nerf/Mip-Nerf.md"
+                "file": "nerf/新思路.md"
               }
             }
           },
@@ -199,13 +199,13 @@
   },
   "active": "7a4e2e1dcc2d547f",
   "lastOpenFiles": [
+    "nerf/Mip-Nerf.md",
     "笔记附件/Pasted image 20231005215848.png",
     "笔记附件/Pasted image 20231005213218.png",
     "笔记附件/Pasted image 20231005213211.png",
     "笔记附件/Pasted image 20231005213150.png",
     "笔记附件/Pasted image 20231005004156.png",
     "nerf/PixelNerf （Single-shot）.md",
-    "nerf/Mip-Nerf.md",
     "nerf/Nerfies.md",
     "nerf/Nerf-W.md",
     "nerf/Instant-NGP.md",
@@ -221,7 +221,6 @@
     "笔记附件/Pasted image 20230909113206.png",
     "笔记附件/Pasted image 20230909112216.png",
     "笔记附件/Pasted image 20230909112159.png",
-    "笔记附件/Pasted image 20230909112017.png",
     "leetcode刷题/面试/贝芙汀面试总结.md",
     "leetcode刷题/滑动窗口法.md",
     "毕设改进方案.md",
