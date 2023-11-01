@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nerf/Mip-Nerf.md",
+                "file": "leetcode刷题/面试/贝芙汀面试总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nerf/Mip-Nerf.md",
+                "file": "leetcode刷题/面试/贝芙汀面试总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nerf/Mip-Nerf.md",
+                "file": "leetcode刷题/面试/贝芙汀面试总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nerf/Mip-Nerf.md"
+                "file": "leetcode刷题/面试/贝芙汀面试总结.md"
               }
             }
           },
@@ -199,6 +199,16 @@
   },
   "active": "7a4e2e1dcc2d547f",
   "lastOpenFiles": [
+    "leetcode刷题/nSum问题.md",
+    "leetcode刷题/小技巧.md",
+    "leetcode刷题/链表中的双指针问题.md",
+    "leetcode刷题/双指针问题.md",
+    "leetcode刷题/Rabin-Karp算法.md",
+    "leetcode刷题/回溯问题.md",
+    "leetcode刷题/回溯问题中的排列组合.md",
+    "leetcode刷题/滑动窗口法.md",
+    "leetcode刷题/动态规划问题——编辑距离.md",
+    "nerf/Mip-Nerf.md",
     "nerf/新思路.md",
     "nerf/光线生成（rays）.md",
     "nerf/D-Nerf （动态）.md",
@@ -210,7 +220,6 @@
     "nerf/FreeNerf （Few-shot）.md",
     "nerf/HyperNerf （动态）.md",
     "nerf/Instant-NGP.md",
-    "nerf/Mip-Nerf.md",
     "笔记附件/Pasted image 20231005215848.png",
     "笔记附件/Pasted image 20231005213218.png",
     "笔记附件/Pasted image 20231005213211.png",
@@ -222,19 +231,11 @@
     "笔记附件/Pasted image 20230909112216.png",
     "笔记附件/Pasted image 20230909112159.png",
     "leetcode刷题/面试/贝芙汀面试总结.md",
-    "leetcode刷题/滑动窗口法.md",
     "毕设改进方案.md",
     "readme.md",
-    "leetcode刷题/nSum问题.md",
     "nerf",
-    "leetcode刷题/回溯问题中的排列组合.md",
     "算法/概率统计/MLE（极大似然估计）和MAP（最大后验估计）.md",
     "算法/损失函数/L1和L2分别对应哪种先验分布？为什么？.md",
-    "自动驾驶面经.md",
-    "leetcode刷题/动态规划问题——子序列问题.md",
-    "leetcode刷题/动态规划问题——最长公共子序列问题（LCS）.md",
-    "leetcode刷题/动态规划问题——编辑距离.md",
-    "算法/概率统计/从概率统计理解线性回归.md",
     "leetcode刷题/面试",
     "算法/概率统计",
     "算法/损失函数",
