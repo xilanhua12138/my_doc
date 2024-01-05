@@ -1,0 +1,1 @@
+![[notes/笔记附件/Tancik 等 - 2022 - Block-NeRF Scalable Large Scene Neural View Synth.pdf]]
