@@ -1,64 +1,35 @@
 {
   "main": {
-    "id": "c3275c00f4d49cbd",
+    "id": "5be2bc7ecfaf775a",
     "type": "split",
     "children": [
       {
-        "id": "ca62cb6868ffa3a5",
+        "id": "42235fb4d4e6bed9",
         "type": "tabs",
         "children": [
           {
-            "id": "14e793f3ce131ac9",
+            "id": "ffec9843a47408ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nerf/新思路.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a5aa6b0e8560de2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nerf/Mip-Nerf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a4e2e1dcc2d547f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "leetcode刷题/面试/贝芙汀面试总结.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4e02568030b99483",
+    "id": "2572d28dc3c02ad7",
     "type": "split",
     "children": [
       {
-        "id": "314df55a71b8ca04",
+        "id": "a1fde046faa366f0",
         "type": "tabs",
         "children": [
           {
-            "id": "c7174d50c9ff08c3",
+            "id": "67a2290b6cf5bb10",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,12 +39,12 @@
             }
           },
           {
-            "id": "4e33902491812d32",
+            "id": "583599d3b8880588",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,23 +54,7 @@
             }
           },
           {
-            "id": "e98160c29774869e",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "a1c7130dca3e2e12",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-tab-tree",
-              "state": {}
-            }
-          },
-          {
-            "id": "0b86183570aff0f8",
+            "id": "c8f1966f7f9e5b44",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -113,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "fd5add337e4692bd",
+    "id": "7d9487dd63ec2a80",
     "type": "split",
     "children": [
       {
-        "id": "f7cbc340034a7e50",
+        "id": "7e4da702152fe02b",
         "type": "tabs",
         "children": [
           {
-            "id": "a5d2e9d8e4724806",
+            "id": "fa7360d95766d2fe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode刷题/面试/贝芙汀面试总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,19 +92,18 @@
             }
           },
           {
-            "id": "aaecc1ddd25b6995",
+            "id": "b438184031573884",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode刷题/面试/贝芙汀面试总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3c748f24a289236c",
+            "id": "ca39a41715cfb09b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -161,22 +114,22 @@
             }
           },
           {
-            "id": "b33dcbce438818e2",
+            "id": "a68e66ce934e2efb",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "leetcode刷题/面试/贝芙汀面试总结.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "74c391a5fa5ae84e",
+            "id": "f9b78ebeca86d851",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -197,53 +150,42 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7a4e2e1dcc2d547f",
+  "active": "67a2290b6cf5bb10",
   "lastOpenFiles": [
-    "leetcode刷题/面试/贝芙汀面试总结.md",
-    "leetcode刷题/nSum问题.md",
-    "leetcode刷题/小技巧.md",
-    "leetcode刷题/链表中的双指针问题.md",
-    "leetcode刷题/双指针问题.md",
-    "leetcode刷题/Rabin-Karp算法.md",
-    "leetcode刷题/回溯问题.md",
-    "leetcode刷题/回溯问题中的排列组合.md",
-    "leetcode刷题/滑动窗口法.md",
-    "leetcode刷题/动态规划问题——编辑距离.md",
-    "nerf/Mip-Nerf.md",
-    "nerf/新思路.md",
-    "nerf/光线生成（rays）.md",
-    "nerf/D-Nerf （动态）.md",
-    "nerf/PixelNerf （Single-shot）.md",
-    "nerf/Nerfies.md",
-    "nerf/SparseNerf（Few-shot）.md",
-    "nerf/Nerf-W.md",
-    "nerf/DynaIBaR.md",
-    "nerf/FreeNerf （Few-shot）.md",
-    "nerf/HyperNerf （动态）.md",
-    "nerf/Instant-NGP.md",
-    "笔记附件/Pasted image 20231005215848.png",
-    "笔记附件/Pasted image 20231005213218.png",
-    "笔记附件/Pasted image 20231005213211.png",
-    "笔记附件/Pasted image 20231005213150.png",
-    "笔记附件/Pasted image 20231005004156.png",
-    "笔记附件/Pasted image 20230919114454.png",
-    "笔记附件/Pasted image 20230919114421.png",
-    "笔记附件/Pasted image 20230909113206.png",
-    "笔记附件/Pasted image 20230909112216.png",
-    "笔记附件/Pasted image 20230909112159.png",
+    "notes/nerf/Nerfuser.md",
+    "自动驾驶面经.md",
     "毕设改进方案.md",
-    "readme.md",
-    "nerf",
+    "算法/概率统计/从概率统计理解线性回归.md",
     "算法/概率统计/MLE（极大似然估计）和MAP（最大后验估计）.md",
+    "算法/损失函数/当L1不可导的时候怎么处理？.md",
+    "算法/损失函数/为什么L1更容易产生稀疏解？.md",
     "算法/损失函数/L1和L2分别对应哪种先验分布？为什么？.md",
-    "leetcode刷题/面试",
     "算法/概率统计",
     "算法/损失函数",
     "算法",
-    "研究生/研究生综合评价细则.pdf",
-    "leetcode刷题",
+    "深度学习/自动驾驶/TPVFormer.md",
+    "深度学习/自动驾驶/BEVFormer.md",
+    "深度学习/目标检测算法/目标检测mAP详解.md",
+    "深度学习/激活函数/SwiGLU.md",
+    "深度学习/自动驾驶",
+    "深度学习/目标检测算法",
     "深度学习/激活函数",
+    "深度学习/ResNet.md",
+    "深度学习",
+    "大语言模型/语言模型文本生成细节.md",
+    "大语言模型/大语言模型汇总.md",
+    "大语言模型/LLaMA模型.md",
+    "大语言模型/Alpaca模型.md",
     "大语言模型",
-    "笔记附件"
-  ]
-}
+    "笔记附件/Tancik 等 - 2022 - Block-NeRF Scalable Large Scene Neural View Synth.pdf",
+    "笔记附件/Pasted image 20240104165356.png",
+    "笔记附件/Pasted image 20240104165347.png",
+    "笔记附件/Pasted image 20240104165314.png",
+    "笔记附件/Pasted image 20240104165131.png",
+    "笔记附件/Pasted image 20231005213211.png",
+    "笔记附件/Pasted image 20231005215848.png",
+    "笔记附件/Pasted image 20231005213218.png",
+    "笔记附件/Pasted image 20231005213150.png",
+    "笔记附件/Pasted image 20231005004156.png",
+    "笔记附件/Pasted image 20230919114454.png",
+    "笔记附件/Fang 等 - 2023 - NeRF
