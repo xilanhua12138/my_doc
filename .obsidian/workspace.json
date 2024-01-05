@@ -152,6 +152,7 @@
   },
   "active": "67a2290b6cf5bb10",
   "lastOpenFiles": [
+    "README.md",
     "notes/nerf/Nerfuser.md",
     "自动驾驶面经.md",
     "毕设改进方案.md",
@@ -188,4 +189,14 @@
     "笔记附件/Pasted image 20231005213150.png",
     "笔记附件/Pasted image 20231005004156.png",
     "笔记附件/Pasted image 20230919114454.png",
-    "笔记附件/Fang 等 - 2023 - NeRF
+    "笔记附件/Fang 等 - 2023 - NeRFuser Large-Scale Scene Representation by NeRF.pdf",
+    "nerf/新思路.md",
+    "nerf/光线生成（rays）.md",
+    "nerf/SparseNerf（Few-shot）.md",
+    "nerf/PixelNerf （Single-shot）.md",
+    "nerf/Nerfuser.md",
+    "nerf/Nerfies.md",
+    "nerf/Instant-NGP.md",
+    "nerf/Nerf-W.md"
+  ]
+}
