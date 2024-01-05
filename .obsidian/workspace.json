@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nerf/Nerf-W.md",
+                "file": "nerf/Tri-MipRF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nerf/Nerf-W.md",
+                "file": "nerf/Tri-MipRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nerf/Nerf-W.md",
+                "file": "nerf/Tri-MipRF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nerf/Nerf-W.md"
+                "file": "nerf/Tri-MipRF.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "ffec9843a47408ac",
   "lastOpenFiles": [
+    "nerf/Nerf-W.md",
+    "nerf/Tri-MipRF.md",
     "nerf/Nerfies.md",
     "nerf/SparseNerf（Few-shot）.md",
     "nerf/光线生成（rays）.md",
@@ -191,7 +193,6 @@
     "大语言模型/语言模型文本生成细节.md",
     "大语言模型/大语言模型汇总.md",
     "大语言模型/LLaMA模型.md",
-    "大语言模型/Alpaca模型.md",
     "大语言模型",
     "笔记附件/Tancik 等 - 2022 - Block-NeRF Scalable Large Scene Neural View Synth.pdf",
     "笔记附件/Pasted image 20240104165356.png",
@@ -204,7 +205,6 @@
     "笔记附件/Pasted image 20231005213150.png",
     "笔记附件/Pasted image 20231005004156.png",
     "笔记附件/Pasted image 20230919114454.png",
-    "笔记附件/Fang 等 - 2023 - NeRFuser Large-Scale Scene Representation by NeRF.pdf",
-    "nerf/新思路.md"
+    "笔记附件/Fang 等 - 2023 - NeRFuser Large-Scale Scene Representation by NeRF.pdf"
   ]
 }
