@@ -11,12 +11,8 @@
             "id": "ffec9843a47408ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nerf/Tri-MipRF.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nerf/Tri-MipRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nerf/Tri-MipRF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "nerf/Tri-MipRF.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,8 +152,9 @@
   },
   "active": "ffec9843a47408ac",
   "lastOpenFiles": [
-    "nerf/Nerf-W.md",
     "nerf/Tri-MipRF.md",
+    "nerf/未命名.md",
+    "nerf/Nerf-W.md",
     "nerf/Nerfies.md",
     "nerf/SparseNerf（Few-shot）.md",
     "nerf/光线生成（rays）.md",
@@ -192,7 +185,6 @@
     "深度学习",
     "大语言模型/语言模型文本生成细节.md",
     "大语言模型/大语言模型汇总.md",
-    "大语言模型/LLaMA模型.md",
     "大语言模型",
     "笔记附件/Tancik 等 - 2022 - Block-NeRF Scalable Large Scene Neural View Synth.pdf",
     "笔记附件/Pasted image 20240104165356.png",
