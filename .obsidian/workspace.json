@@ -160,8 +160,9 @@
   },
   "active": "ffec9843a47408ac",
   "lastOpenFiles": [
-    "Nerf/Tri-MipRF.md",
+    "3D Gaussian Splatting/球谐波函数.md",
     "3D Gaussian Splatting/原理梳理.md",
+    "Nerf/Tri-MipRF.md",
     "3D Gaussian Splatting",
     "nerf/未命名.md",
     "Nerf/Nerf-W.md",
@@ -193,7 +194,6 @@
     "深度学习/激活函数",
     "深度学习/ResNet.md",
     "深度学习",
-    "大语言模型/语言模型文本生成细节.md",
     "大语言模型",
     "笔记附件/Tancik 等 - 2022 - Block-NeRF Scalable Large Scene Neural View Synth.pdf",
     "笔记附件/Pasted image 20240104165356.png",
