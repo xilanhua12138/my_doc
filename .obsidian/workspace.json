@@ -11,8 +11,12 @@
             "id": "ffec9843a47408ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3D Gaussian Splatting/原理梳理.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3D Gaussian Splatting/原理梳理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3D Gaussian Splatting/原理梳理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3D Gaussian Splatting/原理梳理.md"
+              }
             }
           },
           {
@@ -152,16 +160,18 @@
   },
   "active": "ffec9843a47408ac",
   "lastOpenFiles": [
-    "nerf/Tri-MipRF.md",
+    "Nerf/Tri-MipRF.md",
+    "3D Gaussian Splatting/原理梳理.md",
+    "3D Gaussian Splatting",
     "nerf/未命名.md",
-    "nerf/Nerf-W.md",
-    "nerf/Nerfies.md",
-    "nerf/SparseNerf（Few-shot）.md",
-    "nerf/光线生成（rays）.md",
-    "nerf/D-Nerf （动态）.md",
-    "nerf/FreeNerf （Few-shot）.md",
-    "nerf/IDW Nerf Fusion.md",
-    "nerf/Mip-Nerf.md",
+    "Nerf/Nerf-W.md",
+    "Nerf/Nerfies.md",
+    "Nerf/SparseNerf（Few-shot）.md",
+    "Nerf/光线生成（rays）.md",
+    "Nerf/D-Nerf （动态）.md",
+    "Nerf/FreeNerf （Few-shot）.md",
+    "Nerf/IDW Nerf Fusion.md",
+    "Nerf/Mip-Nerf.md",
     "README.md",
     "notes/nerf/Nerfuser.md",
     "自动驾驶面经.md",
@@ -184,7 +194,6 @@
     "深度学习/ResNet.md",
     "深度学习",
     "大语言模型/语言模型文本生成细节.md",
-    "大语言模型/大语言模型汇总.md",
     "大语言模型",
     "笔记附件/Tancik 等 - 2022 - Block-NeRF Scalable Large Scene Neural View Synth.pdf",
     "笔记附件/Pasted image 20240104165356.png",
@@ -196,7 +205,6 @@
     "笔记附件/Pasted image 20231005213218.png",
     "笔记附件/Pasted image 20231005213150.png",
     "笔记附件/Pasted image 20231005004156.png",
-    "笔记附件/Pasted image 20230919114454.png",
-    "笔记附件/Fang 等 - 2023 - NeRFuser Large-Scale Scene Representation by NeRF.pdf"
+    "笔记附件/Pasted image 20230919114454.png"
   ]
 }
