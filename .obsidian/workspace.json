@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSegmentation坑说明/LogProcessor.md",
+                "file": "MMSegmentation坑说明/如何使用预训练权重.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MMSegmentation坑说明/LogProcessor.md",
+                "file": "MMSegmentation坑说明/如何使用预训练权重.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MMSegmentation坑说明/LogProcessor.md",
+                "file": "MMSegmentation坑说明/如何使用预训练权重.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MMSegmentation坑说明/LogProcessor.md"
+                "file": "MMSegmentation坑说明/如何使用预训练权重.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "ffec9843a47408ac",
   "lastOpenFiles": [
-    "3D Gaussian Splatting/球谐波函数.md",
     "MMSegmentation坑说明/LogProcessor.md",
+    "MMSegmentation坑说明/如何使用预训练权重.md",
+    "3D Gaussian Splatting/球谐波函数.md",
     "MMSegmentation坑说明",
     "3D Gaussian Splatting/原理梳理.md",
     "Nerf/Tri-MipRF.md",
@@ -190,7 +191,6 @@
     "深度学习/自动驾驶/TPVFormer.md",
     "深度学习/自动驾驶/BEVFormer.md",
     "深度学习/目标检测算法/目标检测mAP详解.md",
-    "深度学习/激活函数/SwiGLU.md",
     "深度学习/自动驾驶",
     "深度学习/目标检测算法",
     "深度学习/激活函数",
