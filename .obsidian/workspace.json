@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3D Gaussian Splatting/球谐波函数.md",
+                "file": "MMSegmentation坑说明/LogProcessor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D Gaussian Splatting/球谐波函数.md",
+                "file": "MMSegmentation坑说明/LogProcessor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D Gaussian Splatting/球谐波函数.md",
+                "file": "MMSegmentation坑说明/LogProcessor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D Gaussian Splatting/球谐波函数.md"
+                "file": "MMSegmentation坑说明/LogProcessor.md"
               }
             }
           },
@@ -160,8 +160,10 @@
   },
   "active": "ffec9843a47408ac",
   "lastOpenFiles": [
-    "3D Gaussian Splatting/原理梳理.md",
     "3D Gaussian Splatting/球谐波函数.md",
+    "MMSegmentation坑说明/LogProcessor.md",
+    "MMSegmentation坑说明",
+    "3D Gaussian Splatting/原理梳理.md",
     "Nerf/Tri-MipRF.md",
     "3D Gaussian Splatting",
     "nerf/未命名.md",
@@ -192,10 +194,8 @@
     "深度学习/自动驾驶",
     "深度学习/目标检测算法",
     "深度学习/激活函数",
-    "深度学习/ResNet.md",
     "深度学习",
     "大语言模型",
-    "笔记附件/Tancik 等 - 2022 - Block-NeRF Scalable Large Scene Neural View Synth.pdf",
     "笔记附件/Pasted image 20240104165356.png",
     "笔记附件/Pasted image 20240104165347.png",
     "笔记附件/Pasted image 20240104165314.png",
