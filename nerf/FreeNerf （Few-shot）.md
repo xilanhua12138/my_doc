@@ -1,6 +1,4 @@
 这篇文章和[[Nerfies]]中的Coarse to fine非常像啊不知道为啥还能单独发一篇顶会。
-
-
 ## Frequency Regularization
 
 Nerfies中是这样：
