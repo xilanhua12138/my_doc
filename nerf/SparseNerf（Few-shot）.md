@@ -1,4 +1,5 @@
 backbone: Mip-Nerf
+![[Pasted image 20240315203825.png]]
 创新：
 新加了两个Loss
 保证Nerf预测的深度和DPT预先设置好的深度预测模型一致
