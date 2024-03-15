@@ -1,5 +1,6 @@
 [2303.13582.pdf (arxiv.org)](https://arxiv.org/pdf/2303.13582.pdf)
 # 核心思路
+#深度监督
 
 **对齐两个分布**
 分布1：深度估计器的深度distribution

@@ -1,3 +1,4 @@
+#深度监督
 backbone: Mip-Nerf
 ![[Pasted image 20240315203825.png]]
 创新：
