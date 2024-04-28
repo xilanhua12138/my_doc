@@ -3,3 +3,6 @@
 [三维重建基础： 坐标系 (更新中)_colmap 世界坐标-CSDN博客](https://blog.csdn.net/flow_specter/article/details/127805896)
 
 [【三维视觉】相机模型和旋转矩阵 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/405306563)
+
+实验数据永远是opencv的w2c矩阵，也就是如下
+![[a71bcec9c7dd8f9a0ec0d4f6223c8b0.jpg]]
