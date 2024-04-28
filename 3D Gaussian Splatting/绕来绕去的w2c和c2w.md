@@ -8,3 +8,11 @@
 
 实验数据永远是opencv的w2c矩阵，也就是如下
 ![[a71bcec9c7dd8f9a0ec0d4f6223c8b0.jpg]]
+
+
+外参矩阵（W2C）
+外参矩阵是w2c，姿态是c2w
+opencv标定得到的是w2c
+
+[相机位姿(camera pose)与外参矩阵 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/642715876)
+c2w矩阵的每一列就是相机的坐标轴对应世界坐标系中的向量方向
