@@ -16,3 +16,5 @@ opencv标定得到的是w2c
 
 [相机位姿(camera pose)与外参矩阵 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/642715876)
 c2w矩阵的每一列就是相机的坐标轴对应世界坐标系中的向量方向
+
+[Math Derivation of 3D Gaussian Splatting | 我起初心向明月 (zjwfufu.github.io)](https://zjwfufu.github.io/2023/11/11/3DGS_math/)
