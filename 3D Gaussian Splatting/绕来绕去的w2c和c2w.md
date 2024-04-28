@@ -4,5 +4,7 @@
 
 [【三维视觉】相机模型和旋转矩阵 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/405306563)
 
+[身处相机内外参之间（EG3D/NeRF/3D Gaussian Splatting） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/691419487)
+
 实验数据永远是opencv的w2c矩阵，也就是如下
 ![[a71bcec9c7dd8f9a0ec0d4f6223c8b0.jpg]]
