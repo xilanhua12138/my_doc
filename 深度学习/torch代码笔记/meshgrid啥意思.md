@@ -12,3 +12,20 @@ x, y = torch.meshgrid(torch.arrange(5), torch.arrange(4))
 ```
 
 除以了一个数然后进行了归一化，这个加0.5是把格点的原点从左上角移动到了中心点
+
+我这里的用法是：
+```python
+x_min = y_min = z_min = - cube_mean + mean_cam_pos
+
+x_max =  y_max = z_max = (max_cam_pos - min_cam_pos) - cube_mean + mean_cam_pos
+
+resolution = args_dict['grid_resolution']
+
+x = np.linspace(x_min, x_max, resolution)  # 可以根据需要调整点的数量
+
+y = np.linspace(y_min, y_max, resolution)
+
+z = np.linspace(z_min, z_max, resolution)
+
+x,y,z = np.meshgrid(x, y, z, indexing='ij')
+```
