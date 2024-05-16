@@ -16,3 +16,5 @@ def calculate_weights(voxels, rays, voxel_size):
     return weights
 
 ```
+求亚体素是否和光线相交要使用AABB算法：
+[GAMES101-现代计算机图形学入门09（光线追踪）_轴对齐包围盒-CSDN博客](https://blog.csdn.net/qq_62214161/article/details/129505762)
