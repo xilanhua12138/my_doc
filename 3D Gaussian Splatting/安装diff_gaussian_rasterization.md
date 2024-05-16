@@ -1,6 +1,10 @@
 应该使用
-```python
-python  submodules/diff_gaussian_rasterization/setup.py install
+```bash
+python submodules/diff_gaussian_rasterization/setup.py install
+```
+如果显示不存在egg，应该cd进这个diff_gaussian_rasterization 在call
+```bash
+python setup.py install
 ```
 
 ```bash
