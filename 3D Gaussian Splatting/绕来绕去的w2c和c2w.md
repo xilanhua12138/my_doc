@@ -18,3 +18,10 @@ opencv标定得到的是w2c
 c2w矩阵的每一列就是相机的坐标轴对应世界坐标系中的向量方向
 
 [Math Derivation of 3D Gaussian Splatting | 我起初心向明月 (zjwfufu.github.io)](https://zjwfufu.github.io/2023/11/11/3DGS_math/)
+
+
+# 我的理解
+相机外参矩阵是w2c，而c2w是外参矩阵的逆矩阵，一般称为位姿
+[相机位姿(camera pose)与外参矩阵 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/642715876)
+重点看以上的这篇文章。
+很重要的一点是
