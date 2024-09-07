@@ -3,3 +3,5 @@
 DPO的方法
 
 是否是和diffusion-dpo那种同源的数学推理？
+
+![[Pasted image 20240907163548.png]]
