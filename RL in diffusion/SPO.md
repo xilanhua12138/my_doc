@@ -5,3 +5,5 @@
 ![[Pasted image 20240907154416.png|450]]
 step aware model
 ![[Pasted image 20240907154636.png]]
+step aware sampling
+![[Pasted image 20240907155719.png]]
