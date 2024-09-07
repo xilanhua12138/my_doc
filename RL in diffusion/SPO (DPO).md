@@ -7,3 +7,5 @@ step aware model
 ![[Pasted image 20240907154636.png]]
 step aware sampling
 ![[Pasted image 20240907155719.png]]
+
+![[2311 1.pdf]]
