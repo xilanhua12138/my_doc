@@ -10,3 +10,9 @@ python setup.py install
 ```bash
 sudo apt-get install nvidia-cuda-gdb
 ```
+
+没有glm/glm.hpp
+
+```
+sudo apt-get install libglm-dev
+```
