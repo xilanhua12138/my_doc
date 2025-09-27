@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "42235fb4d4e6bed9",
+        "id": "c7b9e4f22c621714",
         "type": "tabs",
         "children": [
           {
-            "id": "ffec9843a47408ac",
+            "id": "560f9f05c6f5a0b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MMSegmentation坑说明/如何使用预训练权重.md",
+                "file": "创业/System prompt.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "如何使用预训练权重"
+              "title": "System prompt"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MMSegmentation坑说明/如何使用预训练权重.md",
+                "file": "创业/System prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 如何使用预训练权重"
+              "title": "Backlinks for System prompt"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MMSegmentation坑说明/如何使用预训练权重.md",
+                "file": "创业/System prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 如何使用预训练权重"
+              "title": "Outgoing links from System prompt"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MMSegmentation坑说明/如何使用预训练权重.md",
+                "file": "创业/System prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 如何使用预训练权重"
+              "title": "Outline of System prompt"
             }
           },
           {
@@ -183,10 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "ffec9843a47408ac",
+  "active": "560f9f05c6f5a0b7",
   "lastOpenFiles": [
-    "MMSegmentation坑说明/LogProcessor.md",
+    "创业/System prompt.md",
+    "创业",
     "MMSegmentation坑说明/如何使用预训练权重.md",
+    "MMSegmentation坑说明/LogProcessor.md",
     "3D Gaussian Splatting/球谐波函数.md",
     "MMSegmentation坑说明",
     "3D Gaussian Splatting/原理梳理.md",
@@ -215,12 +217,10 @@
     "算法",
     "深度学习/自动驾驶/TPVFormer.md",
     "深度学习/自动驾驶/BEVFormer.md",
-    "深度学习/目标检测算法/目标检测mAP详解.md",
     "深度学习/自动驾驶",
     "深度学习/目标检测算法",
     "深度学习/激活函数",
     "深度学习",
-    "大语言模型",
     "笔记附件/Pasted image 20240104165356.png",
     "笔记附件/Pasted image 20240104165347.png",
     "笔记附件/Pasted image 20240104165314.png",
