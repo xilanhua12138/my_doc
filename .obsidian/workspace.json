@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "创业/System prompt.md",
+                "file": "system_prompt.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "System prompt"
+              "title": "system_prompt"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "创业/System prompt.md",
+                "file": "system_prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for System prompt"
+              "title": "Backlinks for system_prompt"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "创业/System prompt.md",
+                "file": "system_prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from System prompt"
+              "title": "Outgoing links from system_prompt"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "创业/System prompt.md",
+                "file": "system_prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of System prompt"
+              "title": "Outline of system_prompt"
             }
           },
           {
@@ -186,6 +186,7 @@
   "active": "560f9f05c6f5a0b7",
   "lastOpenFiles": [
     "创业/System prompt.md",
+    "system_prompt.md",
     "创业",
     "MMSegmentation坑说明/如何使用预训练权重.md",
     "MMSegmentation坑说明/LogProcessor.md",
@@ -216,7 +217,6 @@
     "算法/损失函数",
     "算法",
     "深度学习/自动驾驶/TPVFormer.md",
-    "深度学习/自动驾驶/BEVFormer.md",
     "深度学习/自动驾驶",
     "深度学习/目标检测算法",
     "深度学习/激活函数",
